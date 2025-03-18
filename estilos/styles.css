@@ -1,0 +1,57 @@
+a{
+    margin-left: 350px;
+    color: antiquewhite;
+    font-size: 25px;
+    font-family: 'Barriecito';
+    
+    
+    
+}
+
+a:hover{
+    color: rgb(141, 205, 125);
+    font-size: 23px;
+   
+}
+
+#encabezado {
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Barriecito';
+    color: rgb(208, 139, 37);
+    background-color: antiquewhite;
+}
+
+#encabezado2{
+    background-color: rgb(188, 228, 253);
+    font-family: 'Barriecito';
+
+    font-size: 40px;
+    margin-top: 100px;
+    margin-left: 43px;
+    color: rgb(55, 67, 201);
+    border-style: solid;
+    border-color: rgb(147, 157, 132);
+    border-radius: 2px;
+    border-top-left-radius:10px;
+    border-top-right-radius: 10px;
+    width: fit-content;
+    height: min-content;
+    border-width: 4px;
+    
+    
+
+}
+
+#datos{
+    text-align: center;
+    color: white;
+    margin-top: 500px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+}
+
+
+
+
+
