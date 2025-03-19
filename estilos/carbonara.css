@@ -123,6 +123,19 @@ a:hover {
     color: rgb(95, 43, 99);
 }
 
+.footer{
+    text-align: center;
+    color: rgb(217, 15, 116);
+    font-family: 'Barriecito';
+    font-size: 40px;
+    border-style: groove;
+    width: 500px;
+    background-color: rgba(245, 245, 220, 0.528);
+    border-radius: 20px;
+    margin: 70px;
+    margin-left: 550px;
+}
+
 
  
     
